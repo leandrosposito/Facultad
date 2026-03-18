@@ -1,0 +1,4 @@
+SELECT Zona
+FROM Zonas
+WHERE IdZona LIKE "%9%"
+ORDER BY Zona DESC
